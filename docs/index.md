@@ -1,5 +1,5 @@
 ## Making Visual Art With GANs
-#### ITP 2022, Thursday 9am–11:30am EST beginning 01/27
+#### ITP 2022, Thursday 9am–11:30am EST beginning 01/27 <br/>370 Jay Street, Room 407
 
 **Instructor: [Derrick Schultz](https://artificial-images.com/)**
 
