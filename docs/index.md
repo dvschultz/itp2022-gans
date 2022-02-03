@@ -53,7 +53,10 @@ This section will be updated over the course of the class with recordings, slide
 
 
 ### Week 2 02/03
+
+#### Resources
 * [Slides](https://docs.google.com/presentation/d/1AS5L2e-jALlMFTicDNvHlWdO_n5ht2r4QaUZDBNcs7M/edit?usp=sharing)
+* [Recording](https://youtu.be/bGaLea9meyY)
 
   
 #### STATEMENT OF ACADEMIC INTEGRITY 
