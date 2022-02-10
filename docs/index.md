@@ -66,8 +66,8 @@ This section will be updated over the course of the class with recordings, slide
 #### Homework
 **Play with Text-to-image and style transfer models**
 * Post image explorations in the #week3-hw channel
- * Did you find any text prompts that work well in CLIP?
- * Did you find any images/tricks that work well in style transfer?
+  * Did you find any text prompts that work well in CLIP?
+  * Did you find any images/tricks that work well in style transfer?
 
 
   
