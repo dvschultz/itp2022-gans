@@ -59,6 +59,9 @@ This section will be updated over the course of the class with recordings, slide
 
 ### Week 3 02/10
 
+* Text-to-image
+* Style transfer
+
 #### Resources
 * [Slides](https://docs.google.com/presentation/d/1R8gaAVl78BYeO7mL0vj-N0aFd1VBDOVzjzrseylsz2w/edit?usp=sharing)
 * Recording
