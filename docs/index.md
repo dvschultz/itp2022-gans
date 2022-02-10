@@ -45,18 +45,30 @@ This section will be updated over the course of the class with recordings, slide
 
 ### Week 1 01/27
 * ML, Deep Learning, GAN intro
-* ColabL Tutorial
+* Colab Tutorial
 
 #### Resources
 * [Slides](https://docs.google.com/presentation/d/1iLxZWTGDSHE5amIjchLkKOd_AOYTmLipsTm3qB2GZ4M/edit?usp=sharing)
 * [Recording](https://youtu.be/MR-J6abDZ2Q)
-
 
 ### Week 2 02/03
 
 #### Resources
 * [Slides](https://docs.google.com/presentation/d/1AS5L2e-jALlMFTicDNvHlWdO_n5ht2r4QaUZDBNcs7M/edit?usp=sharing)
 * [Recording](https://youtu.be/bGaLea9meyY)
+
+### Week 3 02/10
+
+#### Resources
+* [Slides](https://docs.google.com/presentation/d/1R8gaAVl78BYeO7mL0vj-N0aFd1VBDOVzjzrseylsz2w/edit?usp=sharing)
+* Recording
+
+#### Homework
+**Play with Text-to-image and style transfer models**
+* Post image explorations in the #week3-hw channel
+ * Did you find any text prompts that work well in CLIP?
+ * Did you find any images/tricks that work well in style transfer?
+
 
   
 #### STATEMENT OF ACADEMIC INTEGRITY 
