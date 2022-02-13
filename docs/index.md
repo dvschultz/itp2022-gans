@@ -64,7 +64,7 @@ This section will be updated over the course of the class with recordings, slide
 
 #### Resources
 * [Slides](https://docs.google.com/presentation/d/1R8gaAVl78BYeO7mL0vj-N0aFd1VBDOVzjzrseylsz2w/edit?usp=sharing)
-* Recording
+* [Recording](https://youtu.be/dvrbStWYTZU)
 
 #### Homework
 **Play with Text-to-image and style transfer models**
