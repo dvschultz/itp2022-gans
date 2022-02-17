@@ -73,6 +73,22 @@ This section will be updated over the course of the class with recordings, slide
   * Did you find any images/tricks that work well in style transfer?
 
 
+### Week 4 02/17
+
+* Dataset Creation
+
+#### Resources
+* [Slides](https://docs.google.com/presentation/d/1IdkQZ0IjSjGKPioCHP5TVfn7NDnZuKujENEOayKE0ko/edit?usp=sharing)
+
+#### Homework
+Think about datasets that might be part of your own project
+
+For next week: 
+* bring in a video or two that is 1280x720 (short 10s, no movement that is too fast)
+* Bring in an image-to-image datasets 
+  * ~512x512 (does not need to be cropped or normalized)
+  * Examples: Horse2zebra, FFHQ2flowers, photos2edges
+
   
 #### STATEMENT OF ACADEMIC INTEGRITY 
 
