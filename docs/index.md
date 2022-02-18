@@ -79,6 +79,7 @@ This section will be updated over the course of the class with recordings, slide
 
 #### Resources
 * [Slides](https://docs.google.com/presentation/d/1IdkQZ0IjSjGKPioCHP5TVfn7NDnZuKujENEOayKE0ko/edit?usp=sharing)
+* [Recording](https://youtu.be/o-VYsEgmY6s)
 
 #### Homework
 Think about datasets that might be part of your own project
