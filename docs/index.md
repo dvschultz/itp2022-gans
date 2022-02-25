@@ -90,6 +90,23 @@ For next week:
   * ~512x512 (does not need to be cropped or normalized)
   * Examples: Horse2zebra, FFHQ2flowers, photos2edges
 
+
+### Week 5 02/24
+
+* Training NFP & StyleGAN2-ADA
+
+#### Resources
+* [Slides](https://docs.google.com/presentation/d/1cUdSBVYvb8dexJz1sJIRCernWSZ1jQuLl7XHYqUvDOs/edit?usp=sharing)
+* [Recording](https://youtu.be/tSbYOHKue_E)
+
+#### Homework
+Train a NFP model and start your StyleGAN2 model
+
+For next week: 
+* Bring in an image-to-image datasets 
+  * ~512x512 (does not need to be cropped or normalized)
+  * Examples: Horse2zebra, FFHQ2flowers, photos2edges
+
   
 #### STATEMENT OF ACADEMIC INTEGRITY 
 
