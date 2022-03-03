@@ -107,6 +107,16 @@ For next week:
   * ~512x512 (does not need to be cropped or normalized)
   * Examples: Horse2zebra, FFHQ2flowers, photos2edges
 
+### Week 6 03/03
+
+#### Resources
+* [Slides](https://docs.google.com/presentation/d/1oVT5ts7x7p2tPrycBC1RoV4ck1cGgtIxzDnfjQqQgas/edit?usp=sharing)
+* Recording
+
+#### Homework
+1. Generate images and video from your NFP and StyleGAN2 models (train more of different models if necessary)
+2. Train a MUNIT model
+
   
 #### STATEMENT OF ACADEMIC INTEGRITY 
 
