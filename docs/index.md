@@ -111,7 +111,7 @@ For next week:
 
 #### Resources
 * [Slides](https://docs.google.com/presentation/d/1oVT5ts7x7p2tPrycBC1RoV4ck1cGgtIxzDnfjQqQgas/edit?usp=sharing)
-* Recording
+* [Recording](https://youtu.be/6UDzt80TTrU) Apologies that the screen is not recorded for the first half. For a similar recording of this material please see [this recording](https://www.youtube.com/watch?v=GmJtBokfIuk)
 
 #### Homework
 1. Generate images and video from your NFP and StyleGAN2 models (train more of different models if necessary)
