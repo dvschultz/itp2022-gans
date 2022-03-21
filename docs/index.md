@@ -117,6 +117,17 @@ For next week:
 1. Generate images and video from your NFP and StyleGAN2 models (train more of different models if necessary)
 2. Train a MUNIT model
 
+### Week 7 03/10
+
+* [Slides](https://docs.google.com/presentation/d/1Y77LivoqNGw9OgKtLPM-LJMenIJLu0yzHgCdU_95iS4/edit?usp=sharing)
+* [Recording](https://youtu.be/dbEJgOJgG9I)
+
+#### Homework
+1. Generate images and videos using feature vectors
+2. Train a MUNIT model
+3. For next week, please bring in a song/audio track (~1min, should include drums/vocals/bass/melody)
+
+
   
 #### STATEMENT OF ACADEMIC INTEGRITY 
 
