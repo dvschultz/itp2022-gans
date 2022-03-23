@@ -128,6 +128,12 @@ For next week:
 3. For next week, please bring in a song/audio track (~1min, should include drums/vocals/bass/melody)
 
 
+### Week 8 03/24
+
+* [Slides](https://docs.google.com/presentation/d/1IWe9dbVtbcubUXTc9PPpBi_K-kiTI9If9QNzDgFCGNw/edit?usp=sharing)
+* Recording
+
+#### Homework
   
 #### STATEMENT OF ACADEMIC INTEGRITY 
 
