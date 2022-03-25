@@ -131,9 +131,10 @@ For next week:
 ### Week 8 03/24
 
 * [Slides](https://docs.google.com/presentation/d/1IWe9dbVtbcubUXTc9PPpBi_K-kiTI9If9QNzDgFCGNw/edit?usp=sharing)
-* Recording
+* [Recording](https://youtu.be/kaF74cG-OoA)
 
 #### Homework
+1. Come to class next week with a 2-3 minute presentation for your personal project. The project should be either conceptual or research-based.
   
 #### STATEMENT OF ACADEMIC INTEGRITY 
 
